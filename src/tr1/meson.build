@@ -306,7 +306,7 @@ dependencies = [
 ]
 
 executable(
-  'TR1X',
+  'abnormal_day',
   sources,
   dependencies: dependencies,
   link_args: link_args,

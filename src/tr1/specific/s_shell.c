@@ -261,7 +261,7 @@ void S_Shell_SpinMessageLoop(void)
 
 int main(int argc, char **argv)
 {
-    char *log_path = File_GetFullPath("TR1X.log");
+    char *log_path = File_GetFullPath("ad.log");
     Log_Init(log_path);
     Memory_FreePointer(&log_path);
 
@@ -323,7 +323,7 @@ int main(int argc, char **argv)
 void S_Shell_CreateWindow(void)
 {
     m_Window = SDL_CreateWindow(
-        "TR1X", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, 1280, 720,
+        "Abnormal Day", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, 1280, 720,
         SDL_WINDOW_SHOWN | SDL_WINDOW_FULLSCREEN_DESKTOP | SDL_WINDOW_RESIZABLE
             | SDL_WINDOW_OPENGL);
 

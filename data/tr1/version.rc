@@ -6,13 +6,13 @@ BEGIN
   BEGIN
     BLOCK "080904E4"
     BEGIN
-      VALUE "CompanyName", "rr-"
-      VALUE "FileDescription", "Tomb Raider I: Community Edition"
-      VALUE "FileVersion", "TR1X {version}"
-      VALUE "InternalName", "TR1X"
-      VALUE "OriginalFilename", "TR1X.exe"
-      VALUE "ProductName", "Tomb Raider I: Community Edition"
-      VALUE "ProductVersion", "TR1X {version}"
+      VALUE "CompanyName", "izarif"
+      VALUE "FileDescription", "Abnormal Day"
+      VALUE "FileVersion", "{version}"
+      VALUE "InternalName", "abnormal_day"
+      VALUE "OriginalFilename", "abnormal_day.exe"
+      VALUE "ProductName", "Abnormal Day"
+      VALUE "ProductVersion", "{version}"
     END
   END
   BLOCK "VarFileInfo"

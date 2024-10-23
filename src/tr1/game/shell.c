@@ -37,7 +37,7 @@
 #define LEVEL_TITLE_SIZE 25
 #define TIMESTAMP_SIZE 20
 
-static const char m_TR1XGameflowPath[] = "cfg/TR1X_gameflow.json5";
+static const char m_TR1XGameflowPath[] = "cfg/ad_gameflow.json5";
 static const char m_TR1XGameflowGoldPath[] = "cfg/TR1X_gameflow_ub.json5";
 static const char m_TR1XGameflowDemoPath[] = "cfg/TR1X_gameflow_demo_pc.json5";
 

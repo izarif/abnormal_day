@@ -16,7 +16,7 @@
 
 CONFIG g_Config = { 0 };
 
-static const char *m_ConfigPath = "cfg/TR1X.json5";
+static const char *m_ConfigPath = "cfg/ad.json5";
 
 static void M_LoadKeyboardLayout(JSON_OBJECT *parent_obj, INPUT_LAYOUT layout);
 static void M_LoadControllerLayout(
